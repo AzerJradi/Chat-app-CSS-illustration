@@ -1,0 +1,208 @@
+:root{
+    --gray: #ececec;
+    --purple: #edb1f1
+}
+body{
+    background-color: aliceblue;
+}
+.all{
+    margin: 50px 35% 10px 35%  ; 
+    background-color: white;
+    border: 15px solid white;
+    border-radius: 40px;
+}
+.phone{
+    border-radius: 40px;
+    background-color: var(--gray);
+    padding-bottom: 30px;
+}
+.userName{
+    background-image: url(./images/background.jpg);
+    border-top-left-radius: 40px;
+    border-top-right-radius: 40px;
+    border-bottom-left-radius: 8px;
+    border-bottom-right-radius: 8px;
+    padding-top: 10px;
+    height: 120px;
+}
+.white{
+    width: 220px;
+    height: 60px;
+    position: relative;
+    left: 95px;
+    bottom: 24px;
+    border-bottom-left-radius: 30px;
+    border-bottom-right-radius: 30px;
+}
+.user{
+    position: relative;
+    left: 80px;
+    bottom: 120px;
+    font-size: 20px;
+    color: white;
+    letter-spacing: 1px;
+}
+.pdp{
+    width: 40px;
+    border:1px solid white;
+    border-radius: 50%;
+    position: relative;
+    left: 30px;
+    bottom: 160px;
+}
+.status{
+    position: relative;
+    left: 80px;
+    bottom: 200px;
+    font-size: 16px;
+    color: #606470;
+    letter-spacing: 1px;
+}
+.z{
+    color: white;
+    position: relative;
+    left: 350px;
+    top: 108px;
+    font-size: 35px;
+}
+.messages{
+
+}
+.mess1{
+    color: blueviolet;
+    background-color: var(--purple);
+    border-radius: 8px;
+    margin-left: 10px;
+    margin-right: 200px;
+    padding-left: 10px;
+    padding-top: 5px;
+    letter-spacing: 1px;
+    padding-bottom: 5px;
+}
+.mess2{
+    color: blueviolet;
+    background-color: var(--purple);
+    border-radius: 8px;
+    margin-left: 10px;
+    margin-right: 200px;
+    padding-left: 10px;
+    padding-top: 5px;
+    letter-spacing: 1px;
+    padding-bottom: 5px;
+}
+.mess3{
+    color: black;
+    background-color: white;
+    border-radius: 8px;
+    margin-right: 200px;
+    padding-left: 10px;
+    padding-top: 5px;
+    letter-spacing: 1px;
+    padding-bottom: 5px;
+    position: relative;
+    right: -185px;
+}
+.mess4{
+    color: black;
+    background-color: white;
+    border-radius: 8px;
+    margin-right: 200px;
+    padding-left: 10px;
+    padding-top: 5px;
+    letter-spacing: 1px;
+    padding-bottom: 5px;
+    position: relative;
+    right: -185px;
+}
+.mess5{
+    color: blueviolet;
+    background-color: var(--purple);
+    border-radius: 8px;
+    margin-left: 10px;
+    margin-right: 150px;
+    padding-left: 10px;
+    padding-top: 5px;
+    letter-spacing: 1px;
+    padding-bottom: 5px;
+}
+.images{
+    position: relative;
+    left: 90px;
+
+}
+.photo1{
+    width: 100px;
+    border-radius: 20px;
+}
+.photo2{
+    width: 100px;
+    border-radius: 20px;
+}
+.photo3{
+    width: 100px;
+    border-radius: 20px;
+}
+.choice1{
+    background-image: url(./images/background.jpg);
+    border-radius: 12px;
+    border-bottom-left-radius: 4px;
+    margin:10px 100px 10px 10px;
+    height: 60px;
+    width: 320px;
+}
+.prd1{
+    color: white;
+    font-size: 20px;
+    font-family:Verdana, Geneva, Tahoma, sans-serif;
+    padding-top: 30px;
+    padding-left: 10px;
+}
+.prd2{
+    color: white;
+    font-size: 20px;
+    font-family:Verdana, Geneva, Tahoma, sans-serif;
+    padding-top: 30px;
+    padding-left: 10px;
+}
+.price1{
+    color: white;
+    font-size: 30px;
+    position: relative;
+    left: 200px;
+    bottom: 55px;
+}
+.price2{
+    color: white;
+    font-size: 30px;
+    position: relative;
+    left: 200px;
+    bottom: 55px;
+}
+.typ{
+    background-color: white;
+    border-radius: 30px;
+    margin:0px 10%;
+    padding-bottom: 20px;
+}
+.typing{
+    color: #606470;
+    position: relative;
+    top: 18px;
+    left: 20px;
+    font-size: 18px;
+}
+.paragraphe{
+    position: relative;
+    left: 1100px;
+    bottom: 600px;
+}
+.titre{
+    font-size: 36px;
+    font-family: Arial, Helvetica, sans-serif,fantasy;
+}
+.description{
+    font-size: 20px;
+    color: grey;
+    font-family: Arial, Helvetica, sans-serif;
+    line-height: 1.5;
+}
